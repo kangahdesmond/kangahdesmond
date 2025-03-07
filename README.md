@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kangahdesmond&label=Profile%20views&color=0e75b6&style=flat" alt="kangahdesmond" /> </p>
 
-- 🔭 I’m currently working on **Land Subsidence using GMTSAR**
+- 🔭 I’m currently working on **Land Subsidence using PygmtSAR, ISCE2, Mintpy, SARvey Tools**
 
-- 🌱 I’m currently learning **Masters In Civil Engineering with Concentration in Gepdesy and INSAR**
+- 🌱 I’m currently learning **Masters In Civil Engineering with Concentration in Geomatics  and Geodesy**
 
 - 👯 I’m looking to collaborate on **Any GIS and Surveying Project**
 
-- 🤝 I’m looking for help with **Solving Environmental Issues with GMTSAR**
+- 🤝 I’m looking for help with **Solving Environmental Issues with Geospatial Analysis**
 
-- 📫 How to reach me **desmondkangah98@gmail**
+- 📫 How to reach me **desmondkangah98@gmail | +1 2554336635**
 
   ### ***Geospatial Tools I Make Use of 24/7***
   [![image](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/opengeos/leafmap/blob/master/examples/notebooks/00_key_features.ipynb)
